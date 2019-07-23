@@ -1,0 +1,15 @@
+.THIS.table {
+    font-family: cursive;
+    font-weight: 700;
+    width: 100%;
+}
+
+.THIS.table.tr {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-family: fantasy;
+}
+.THIS .messageClass{
+	font-size: x-small;
+}

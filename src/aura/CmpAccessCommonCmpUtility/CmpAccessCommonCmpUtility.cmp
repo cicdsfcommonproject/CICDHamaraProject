@@ -1,0 +1,42 @@
+<aura:component extends="c:CmpUtility">
+    <!--<aura:handler name="init" value="{!this}" action="{!c.doInit}" />-->
+    <lightning:button variant="base"        disabled="true" onclick="{!c.handleClick}">Disabled Base</lightning:button>
+    <br/>
+    <lightning:button label="Click me" onclick="{!c.clickMe}" />
+    
+    <br></br>
+    
+    <lightning:icon iconName="utility:delete" size="large" alternativeText="sss"/>
+    <lightning:button variant="brand" label="Download" iconName="utility:add" iconPosition="left" onclick="{! c.handleClick }" />
+    <br></br>
+    <lightning:button   class="slds-theme_delete slds-border_top slds-border_bottom slds-border_left slds-border_right"
+                                iconPosition="center"
+                                variant="delete"
+                                type="submit"
+                                label="Delete"
+                                iconName="utility:delete"
+                                >
+            </lightning:button>
+    
+    <br/>
+    <lightning:button class="slds-button slds-border_top slds-border_bottom slds-border_left slds-border_right" >
+    	<lightning:icon iconName="utility:up" size="small" alternativeText="Move this item up" />
+	</lightning:button>
+    
+    soni
+    <br/>
+    <lightning:button  class="slds-button" >
+    	<lightning:icon iconName="utility:delete" size="small" />
+	</lightning:button>
+    
+    <br/>
+    <lightning:button   class="slds-theme_transparent slds-border_top slds-border_bottom slds-border_left slds-border_right"
+                                iconPosition="center"
+                                variant="success"
+                                type="submit"
+                                label="Reset Filter"
+                                iconName="utility:save"
+                                >
+            </lightning:button>
+
+</aura:component>
