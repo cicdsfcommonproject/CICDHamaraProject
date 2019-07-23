@@ -1,4 +1,4 @@
 public with sharing class HamaraBajajCls {
     private String strObj = 'Soni';
-    Private string Str1obj = 'Wats';
+    Private string StrOobj1 = 'Wats';
 }
