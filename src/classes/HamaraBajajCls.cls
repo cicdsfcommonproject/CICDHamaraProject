@@ -5,5 +5,5 @@ private String strObj = 'DeVops';
     private String strObjtest = 'Soni';
     Private string strOobj1 = 'Wats';
     private string strnew = 'Rajpal';
-    private string strnew2 = 'FinalVar';
+    private string strnew2 = 'TempVar';
 }
