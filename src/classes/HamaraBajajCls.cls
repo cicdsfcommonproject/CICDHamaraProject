@@ -1,3 +1,5 @@
 public with sharing class HamaraBajajCls {
-private String StrObj = 'DeVops';
+private String strObj = 'DeVops';
+
+    private String strObjnew = 'Soni';
 }
