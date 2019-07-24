@@ -4,4 +4,5 @@ public with sharing class HamariClass {
     Public list<string> lst = new List<string>();
     public strng str3; 
     public strng gaurav;
+    public strng ankit;
 }
