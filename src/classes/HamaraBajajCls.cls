@@ -7,4 +7,7 @@ private String strObj = 'DeVops';
     private string strnew = 'Rajpal';
     private string strnew2 = 'TempVar';
     private string s = '222';
+    private string strnew2 = 'ANUJ';
+     private string strnew3 = 'ANKIT';
+
 }
