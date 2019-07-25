@@ -1,6 +1,6 @@
 public class HamaraBajajCls {
     private String strObj = 'DeVops';
-
+private String strObj23456 = 'DeVops';
     private String strObjnew = 'Soni';
     private String strObjtest = 'Soni';
     private string strOobj1 = 'Wats';
